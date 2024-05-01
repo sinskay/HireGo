@@ -1,0 +1,10 @@
+.firstSection {
+  @media (max-width: 1150px) {
+    flex-direction: column-reverse;
+  }
+}
+.lastSection {
+  @media (max-width: 1150px) {
+    flex-direction: column;
+  }
+}
